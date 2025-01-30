@@ -1,6 +1,3 @@
-#Name : Ather Johear Noor
-#ICM ID : NOOAD2301
-
 
 
 # Question 1
